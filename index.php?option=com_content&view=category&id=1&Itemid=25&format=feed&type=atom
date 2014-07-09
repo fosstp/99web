@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://jmweb.nksh.tp.edu.tw/~free99/index.php" xml:lang="zh-tw">
+	<title type="text">活動成果</title>
+	<subtitle type="text">Joomla! - 動態的入口網站架設引擎及內容管理系統</subtitle>
+	<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=category&amp;id=1&amp;Itemid=25"/>
+	<id>/~free99/index.php?option=com_content&amp;view=category&amp;id=1&amp;Itemid=25</id>
+	<updated>2014-07-09T15:27:08Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="/~free99/" />
+	<entry>
+		<title>2010-07-08 校園自由軟體發展研討會(國中組)</title>
+		<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=article&amp;id=8:2010-07-08-&amp;catid=1:2010-05-31-09-19-04&amp;Itemid=25"/>
+		<published>2010-07-08T06:22:37Z</published>
+		<updated>2010-07-08T06:22:37Z</updated>
+		<id>/~free99/index.php?option=com_content&amp;amp;view=article&amp;amp;id=8:2010-07-08-&amp;amp;catid=1:2010-05-31-09-19-04&amp;amp;Itemid=25</id>
+		<summary type="html">{pgslideshow id=1|width=480|height=320|delay=3000|image=L|pgslink=1}</summary>
+		<content type="html">{pgslideshow id=1|width=480|height=320|delay=3000|image=L|pgslink=1}</content>
+	</entry>
+	<entry>
+		<title>2010-07-13 校園自由軟體發展研討會(Drupal教學)</title>
+		<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=article&amp;id=10:2010-07-08-&amp;catid=1:2010-05-31-09-19-04&amp;Itemid=25"/>
+		<published>2010-07-08T06:22:37Z</published>
+		<updated>2010-07-08T06:22:37Z</updated>
+		<id>/~free99/index.php?option=com_content&amp;amp;view=article&amp;amp;id=10:2010-07-08-&amp;amp;catid=1:2010-05-31-09-19-04&amp;amp;Itemid=25</id>
+		<summary type="html">{pgslideshow id=3|width=480|height=320|delay=3000|image=L|pgslink=1}</summary>
+		<content type="html">{pgslideshow id=3|width=480|height=320|delay=3000|image=L|pgslink=1}</content>
+	</entry>
+	<entry>
+		<title>2010-08-09 數位教材發展技術交流</title>
+		<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=article&amp;id=12:2010-07-08-&amp;catid=1:2010-05-31-09-19-04&amp;Itemid=25"/>
+		<published>2010-07-08T06:22:37Z</published>
+		<updated>2010-07-08T06:22:37Z</updated>
+		<id>/~free99/index.php?option=com_content&amp;amp;view=article&amp;amp;id=12:2010-07-08-&amp;amp;catid=1:2010-05-31-09-19-04&amp;amp;Itemid=25</id>
+		<summary type="html">{pgslideshow id=4|width=480|height=320|delay=3000|image=L|pgslink=1}</summary>
+		<content type="html">{pgslideshow id=4|width=480|height=320|delay=3000|image=L|pgslink=1}</content>
+	</entry>
+	<entry>
+		<title>活動4</title>
+		<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=article&amp;id=4:4&amp;catid=1:2010-05-31-09-19-04&amp;Itemid=25"/>
+		<published>2010-05-31T09:19:46Z</published>
+		<updated>2010-05-31T09:19:46Z</updated>
+		<id>/~free99/index.php?option=com_content&amp;amp;view=article&amp;amp;id=4:4&amp;amp;catid=1:2010-05-31-09-19-04&amp;amp;Itemid=25</id>
+		<summary type="html">&lt;ul&gt;&lt;li&gt;活動4&lt;/li&gt;&lt;li&gt;活動4&lt;/li&gt;&lt;li&gt;活動4&lt;/li&gt;&lt;/ul&gt;</summary>
+		<content type="html">&lt;ul&gt;&lt;li&gt;活動4&lt;/li&gt;&lt;li&gt;活動4&lt;/li&gt;&lt;li&gt;活動4&lt;/li&gt;&lt;/ul&gt;</content>
+	</entry>
+	<entry>
+		<title>活動3</title>
+		<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=article&amp;id=3:3&amp;catid=1:2010-05-31-09-19-04&amp;Itemid=25"/>
+		<published>2010-05-31T09:19:37Z</published>
+		<updated>2010-05-31T09:19:37Z</updated>
+		<id>/~free99/index.php?option=com_content&amp;amp;view=article&amp;amp;id=3:3&amp;amp;catid=1:2010-05-31-09-19-04&amp;amp;Itemid=25</id>
+		<summary type="html">活動3</summary>
+		<content type="html">活動3</content>
+	</entry>
+	<entry>
+		<title>活動2</title>
+		<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=article&amp;id=2:2&amp;catid=1:2010-05-31-09-19-04&amp;Itemid=25"/>
+		<published>2010-05-31T09:19:23Z</published>
+		<updated>2010-05-31T09:19:23Z</updated>
+		<id>/~free99/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2:2&amp;amp;catid=1:2010-05-31-09-19-04&amp;amp;Itemid=25</id>
+		<summary type="html">活動2</summary>
+		<content type="html">活動2</content>
+	</entry>
+	<entry>
+		<title>活動1</title>
+		<link rel="alternate" type="text/html" href="/~free99/index.php?option=com_content&amp;view=article&amp;id=1:1&amp;catid=1:2010-05-31-09-19-04&amp;Itemid=25"/>
+		<published>2010-05-31T09:19:08Z</published>
+		<updated>2010-05-31T09:19:08Z</updated>
+		<id>/~free99/index.php?option=com_content&amp;amp;view=article&amp;amp;id=1:1&amp;amp;catid=1:2010-05-31-09-19-04&amp;amp;Itemid=25</id>
+		<summary type="html">活動1</summary>
+		<content type="html">活動1</content>
+	</entry>
+</feed>
